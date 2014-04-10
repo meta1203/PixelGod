@@ -1,0 +1,8 @@
+#gamecanvas {
+	border-style: ridge;
+	border-color: #CCCCCC;
+	border-width: 10px;
+}
+body {
+	background-color: black;
+}
